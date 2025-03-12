@@ -1,9 +1,11 @@
-# STAR
-##  UPDATING ~ The official implementation for [STAR](https://www.sciencedirect.com/science/article/pii/S0924271624000856).
+# STAR ~ Updating
+## The official implementation for [STAR](https://www.sciencedirect.com/science/article/pii/S0924271624000856).
 - ♪ Hopefully something good will happen for all of us ♪
-- Red --> Our STAR. Blue --> Ground Truth.
-- ![image](/fig/overlap_curve.jpg)
-- ![image](/fig/vis.jpg)
-
+- Overlap curves and tracking samples of STAR in diverse scenarios. Red --> Our STAR. Blue --> Ground Truth.
+![image](/fig/overlap_curve.jpg)
+- Visual analysis.
+![image](/fig/vis.jpg)
+- Visualization of attention maps and its evolutionary process
+![image](/fig/attn.jpg)
 <!---
 -->
