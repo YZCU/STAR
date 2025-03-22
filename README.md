@@ -5,7 +5,6 @@
 ![image](/fig/overlap_curve.jpg)
 - Visual analysis.
 ![image](/fig/vis.jpg)
-- Visualization of attention maps and its evolutionary process
-![image](/fig/attn.jpg)
+
 <!---
 -->
