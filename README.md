@@ -3,8 +3,6 @@
 - ♪ Hopefully something good will happen for all of us ♪
 - Overlap curves and tracking samples of STAR in diverse scenarios. Red --> Our STAR. Blue --> Ground Truth.
 ![image](/fig/overlap_curve.jpg)
-- Visual analysis.
-![image](/fig/vis.jpg)
 
 <!---
 -->
