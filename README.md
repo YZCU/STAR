@@ -16,6 +16,7 @@
 | [SatSOT](https://ieeexplore.ieee.org/document/9672083) |0.639 / 0.537 / -|
 | [SV248S](https://ieeexplore.ieee.org/document/9875020) |0.774 / 0.523 / -|
 | [OOTB](https://www.sciencedirect.com/science/article/pii/S0924271624000856) |0.846 / 0.678 / 0.826|
+
 --------------------------------------------------------------------------------------
 - Overlap curves and tracking samples of STAR in diverse scenarios. Red --> Our STAR. Blue --> Ground Truth.
 ![image](/fig/overlap_curve.jpg)
@@ -53,9 +54,9 @@ git clone https://github.com/YZCU/STAR.git
 
 - Fast Training: Download the [pre-trained model](https://drive.google.com/drive/folders/1xd7khcOqTOOtBykQIz2QxXidjKp1FvE6?hl=zh-cn) of STAR. Put it into `<pretrained_models>`.
 - Run `<tracking/train.py>` to train STAR.
-- The well-trained STAR model is put into `<output/train/yzcu/yzcu-ep150-full-256_shared/yzcu_ep0015.pth.tar>`.
+- The well-trained STAR model is put into `<output/train/yzcu/yzcu-ep150-full-256/yzcu_ep0060.pth.tar>`.
 - We have also released the well-trained [STAR](https://drive.google.com/drive/folders/1nIqG2FBt1fNbRThaO9s-fWoGV_O-DtJ7?hl=zh-cn) tracking models.
-- Testing: Run `<tracking/test.py>` for testing, and results are saved in `<output/results/yzcu/yzcu-ep150-full-256_shared>`.
+- Testing: Run `<tracking/test.py>` for testing, and results are saved in `<output/results/yzcu/yzcu-ep150-full-256>`.
 - Evaluating: Please download the evaluation benchmark [Toolkit](http://cvlab.hanyang.ac.kr/tracker_benchmark/) and [vlfeat](http://www.vlfeat.org/index.html) for more accurate evaluation.
 - Refer to the [Object Tracking Benchmark](https://ieeexplore.ieee.org/document/7001050) for detailed evaluations.
 - Evaluation of the STAR tracker. Run `<tracker_benchmark_v1.0\perfPlot.m>`
