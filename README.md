@@ -2,7 +2,8 @@
 ### [**STAR**](https://www.sciencedirect.com/science/article/)
 
 - The implementation for "**STAR: A Unified Spatiotemporal Fusion Framework for Satellite Video Object Tracking**".
-- IEEE Transactions on Geoscience and Remote Sensing, 2025.
+- IEEE Transactions on Geoscience and Remote Sensing (Submitted).
+<!--- IEEE Transactions on Geoscience and Remote Sensing, 2025.-->
 --------------------------------------------------------------------------------------
 
 :running:Keep updating:running::
