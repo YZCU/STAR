@@ -20,8 +20,6 @@
 --------------------------------------------------------------------------------------
 - Visual analysis, arranged from top to bottom: car_01 (SatSOT), car_61 (SatSOT), 03_000036 (SV248S), 04_000003 (SV248S), 05_000035 (SV248S), ship_10 (OOTB), and train_1 (OOTB).
 ![image](/fig/vis.jpg)
-- Visualization of attention maps and its evolutionary process.
-![image](/fig/attn.jpg)
 - Overlap curves and tracking samples of STAR in diverse scenarios. Red --> Our STAR. Blue --> Ground Truth.
 ![image](/fig/overlap_curve.jpg)
 <!--
