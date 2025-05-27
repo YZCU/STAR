@@ -2,13 +2,13 @@
 ### [**STAR**](https://www.sciencedirect.com/science/article/)
 
 - The implementation for "**STAR: A Unified Spatiotemporal Fusion Framework for Satellite Video Object Tracking**".
-- IEEE Transactions on Geoscience and Remote Sensing (Submitted).
+- IEEE Transactions on Geoscience and Remote Sensing, 2025. (Submitted).
 <!--- IEEE Transactions on Geoscience and Remote Sensing, 2025.-->
 --------------------------------------------------------------------------------------
 
 :running:Keep updating:running::
 - Trained model of [STAR](https://drive.google.com/drive/folders/1xd7khcOqTOOtBykQIz2QxXidjKp1FvE6?hl=zh-cn) has been released.
-- Training and testing codes of [STAR](https://github.com/YZCU/STAR/blob/main/training%20and%20testing%20codes%20of%20star.zip) has been released.
+- Training and testing codes of [STAR](https://github.com/YZCU/STAR/blob/main/training%20and%20testing%20codes%20of%20star.zip) have been released.
 - Tracking result of [STAR](https://github.com/YZCU/STAR/blob/main/rect_result%20of%20star.zip) has been released.
 --------------------------------------------------------------------------------------
 | Benchmark | STAR (PR / SR / NPR)|
